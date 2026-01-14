@@ -14,7 +14,7 @@ Me chamo Hálan William da Costa Sousa e sou estudante do curso de engenharia de
 
 ### Contato Profissional
 <div>
-  <a href="https://www.linkedin.com/in/halan-william-da-costa-sousa-45979833b/">
+  <a href="https://www.linkedin.com/in/halan-william-da-costa-sousa-45979833b/" target="_blank">
      <img height="30rm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />     
   </a>
   
